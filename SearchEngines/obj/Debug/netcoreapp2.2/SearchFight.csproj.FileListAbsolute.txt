@@ -1,0 +1,17 @@
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\bin\Debug\netcoreapp2.2\SearchFight.deps.json
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\bin\Debug\netcoreapp2.2\SearchFight.runtimeconfig.json
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\bin\Debug\netcoreapp2.2\SearchFight.runtimeconfig.dev.json
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\bin\Debug\netcoreapp2.2\SearchFight.dll
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\bin\Debug\netcoreapp2.2\SearchFight.pdb
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\bin\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\bin\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\bin\Debug\netcoreapp2.2\BusinessLayer.pdb
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\bin\Debug\netcoreapp2.2\DataAccess.pdb
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\obj\Debug\netcoreapp2.2\SearchFight.csprojAssemblyReference.cache
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\obj\Debug\netcoreapp2.2\SearchFight.AssemblyInfoInputs.cache
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\obj\Debug\netcoreapp2.2\SearchFight.AssemblyInfo.cs
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\obj\Debug\netcoreapp2.2\SearchFight.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\obj\Debug\netcoreapp2.2\SearchFight.csproj.CopyComplete
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\obj\Debug\netcoreapp2.2\SearchFight.dll
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\obj\Debug\netcoreapp2.2\SearchFight.pdb
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\obj\Debug\netcoreapp2.2\SearchFight.genruntimeconfig.cache

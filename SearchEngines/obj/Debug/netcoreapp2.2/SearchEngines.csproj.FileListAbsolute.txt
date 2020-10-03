@@ -1,0 +1,12 @@
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\bin\Debug\netcoreapp2.2\SearchEngines.deps.json
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\bin\Debug\netcoreapp2.2\SearchEngines.runtimeconfig.json
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\bin\Debug\netcoreapp2.2\SearchEngines.runtimeconfig.dev.json
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\bin\Debug\netcoreapp2.2\SearchEngines.dll
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\bin\Debug\netcoreapp2.2\SearchEngines.pdb
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\obj\Debug\netcoreapp2.2\SearchEngines.AssemblyInfoInputs.cache
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\obj\Debug\netcoreapp2.2\SearchEngines.AssemblyInfo.cs
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\obj\Debug\netcoreapp2.2\SearchEngines.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\obj\Debug\netcoreapp2.2\SearchEngines.dll
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\obj\Debug\netcoreapp2.2\SearchEngines.pdb
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\obj\Debug\netcoreapp2.2\SearchEngines.genruntimeconfig.cache
+C:\Users\Joel\source\repos\SearchEngines\SearchEngines\obj\Debug\netcoreapp2.2\SearchEngines.csprojAssemblyReference.cache
